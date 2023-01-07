@@ -1,6 +1,6 @@
 # App Gerador de QRCode Android
 
-##Já completo, capaz de gerar APK.
+## Já completo, capaz de gerar APK.
 
 Feito em Java para Android, não tem suporte a IOS.
 
