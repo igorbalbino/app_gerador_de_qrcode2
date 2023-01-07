@@ -1,0 +1,2 @@
+# app_gerador_de_qrcode2
+app_gerador_de_qrcode
